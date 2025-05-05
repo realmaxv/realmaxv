@@ -15,8 +15,14 @@ Mein Ziel: Nicht nur Code schreiben – sondern Lösungen gestalten. Ich bin off
 
 • 👨‍💻 Frontend: React · TypeScript · JavaScript · HTML · CSS · TailwindCSS • 🔧 Backend: Supabase (Grundlagen) • 🛠️ Tools: Visual Studio Code · GitHub · Vite · ESLint · npm • 
 
-📦 Erfahrung mit: REST APIs · Responsive Design · Git Workflows 🚀 Projekte (mit Links und kurzer Beschreibung) 🔗 Transtube.org Webseiten-Zusammenfasser mit KI Gib einen Link ein und erhalte mithilfe künstlicher Intelligenz eine kompakte Zusammenfassung – basierend auf deinen eigenen Stichworten. Erstellt mit React, TypeScript, Tailwind und Supabase. ⸻ 🧪 Beers-App Bierdaten per API – spielerisches Projekt Verwendung einer externen API zur Anzeige zufälliger Biersorten mit Fake-Daten.
+📦 Erfahrung mit: REST APIs · Responsive Design · Git Workflows 
+
+🚀 Projekte:
+🔗 Transtube.org Webseiten-Zusammenfasser mit KI Gib einen Link ein und erhalte mithilfe künstlicher Intelligenz eine kompakte Zusammenfassung – basierend auf deinen eigenen Stichworten. Erstellt mit React, TypeScript, Tailwind und Supabase.
+
+ ⸻ 🧪 Beers-App Bierdaten per API – spielerisches Projekt Verwendung einer externen API zur Anzeige zufälliger Biersorten mit Fake-Daten.
 Zeigt API-Verständnis, Fetch-Methoden, dynamisches Rendering.
+
 ⸻ 🌿 SCHealthy Responsives Design mit Tailwind Statische Website mit Fokus auf Mobile First und klares Tailwind-Layout. Kein JavaScript – Fokus auf Struktur & Design.
 
 * 🌍  I'm based in Deutschland
