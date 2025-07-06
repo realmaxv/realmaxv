@@ -4,10 +4,10 @@ Hi 👋 My name is Max Voßgätter
 Frontend Web Developer | React & TypeScript Enthusiast | Lernfreudiger Coder mit Herz
 -------------------------------------------------------------------------------------
 
-Hallo! Ich bin Max – ein angehender Webentwickler mit Fokus auf das Frontend. 
+Hallo! Ich bin Max – ein Webentwickler mit aktuellem Fokus auf das Frontend. 
 
 Ich liebe es, mit modernen Technologien wie React, TypeScript, TailwindCSS und Supabase zu arbeiten und dabei Projekte zu entwickeln, die echten Nutzen stiften.
-Gerade mache ich eine Weiterbildung zum Webentwickler, wo ich tief in das JavaScript-Ökosystem eintauche und neben HTML und CSS vor allem auch mit Supabase als Backend-Lösung arbeite.
+Ich habe kürzlich eine intenisve Weiterbildung zum Webentwickler absolviert, wo ich tief in das JavaScript-Ökosystem eintauchen konnte und neben HTML und CSS vor allem auch mit Supabase als Backend-Lösung gearbeitet habe.
 
 Mein Ziel: Nicht nur Code schreiben – sondern Lösungen gestalten. Ich bin offen, lernbereit, neugierig – und glaube daran, dass Tech auch herzlich sein darf. 🤝 
 
@@ -18,21 +18,23 @@ Mein Ziel: Nicht nur Code schreiben – sondern Lösungen gestalten. Ich bin off
 📦 Erfahrung mit: REST APIs · Responsive Design · Git Workflows 
 
 🚀 Projekte:
-🔗 Transtube.org Webseiten-Zusammenfasser mit KI Gib einen Link ein und erhalte mithilfe künstlicher Intelligenz eine kompakte Zusammenfassung – basierend auf deinen eigenen Stichworten. Erstellt mit React, TypeScript, Tailwind und Supabase.
+[🔗 Transtube.org](https://www.transtube.org/) Webseiten-Zusammenfasser mit KI Gib einen Link ein und erhalte mithilfe künstlicher Intelligenz eine kompakte Zusammenfassung – basierend auf deinen eigenen Stichworten. Erstellt mit React, TypeScript, Tailwind und Supabase.
 
  ⸻ 🧪 Beers-App Bierdaten per API – spielerisches Projekt Verwendung einer externen API zur Anzeige zufälliger Biersorten mit Fake-Daten.
 Zeigt API-Verständnis, Fetch-Methoden, dynamisches Rendering.
 
 ⸻ 🌿 SCHealthy Responsives Design mit Tailwind Statische Website mit Fokus auf Mobile First und klares Tailwind-Layout. Kein JavaScript – Fokus auf Struktur & Design.
 
-* 🌍  I'm based in Deutschland
-* 🖥️  See my portfolio at [Mein Portfoilio](http://github.com/realmaxv/)
-* ✉️  You can contact me at [📧 max.vossgaetter@gmx.de](mailto:max.vossgaetter@gmx.de)
-* 🚀  I'm currently working on [TransTube: Verstehe Webseiten smarter](http://www.transtube.org/)
-* 🧠  I'm learning REACT, Supabase
-* 🤝  I'm open to collaborating on React- und TypeScript-Projekte, bei denen man gemeinsam wachsen kann
-* ⚡  Ich freue mich über Inspiration, Austausch und kleine oder große Coding-Herausforderungen. Lass uns gemeinsam wachsen!
 
+⸻
+
+	•	🌍  Ich lebe in Deutschland
+	•	🖥️  Mein Portfolio findest du unter [Mein Portfoilio](http://www.maxvossgaetter.de)
+	•	✉️  Du kannst mich erreichen unter [📧 max.vossgaetter@gmx.de](mailto:max.vossgaetter@gmx.de)
+	•	🚀  Derzeit entwickle ich LogiPic – eine spezialisierte Anwendung für Logistikunternehmen, die auf Basis von Mitarbeiteranzahl und Produktivitätsdaten           die voraussichtliche Tagesleistung bzw. Endzeit der Fertigung präzise berechnet.
+	•	🧠  Ich lerne gerade Next.js und Supabase
+	•	🤝  Ich bin offen für Kooperationen an React- und TypeScript-Projekten, bei denen man gemeinsam wachsen kann
+	•	⚡  Ich freue mich über Inspiration, Austausch und jede Art von Coding-Herausforderung – ob klein oder groß. Lass uns gemeinsam etwas Großartiges schaffen!
 ### Skills
 
 
