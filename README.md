@@ -26,16 +26,23 @@ Zeigt API-Verständnis, Fetch-Methoden, dynamisches Rendering.
 ⸻ 🌿 SCHealthy Responsives Design mit Tailwind Statische Website mit Fokus auf Mobile First und klares Tailwind-Layout. Kein JavaScript – Fokus auf Struktur & Design.
 
 
-⸻
+🌍  Ich lebe in Deutschland
 
-	•	🌍  Ich lebe in Deutschland
-	•	🖥️  Mein Portfolio findest du unter [Mein Portfoilio](http://www.maxvossgaetter.de)
-	•	✉️  Du kannst mich erreichen unter [📧 max.vossgaetter@gmx.de](mailto:max.vossgaetter@gmx.de)
-	•	🚀  Derzeit entwickle ich LogiPic – eine spezialisierte Anwendung für Logistikunternehmen, die auf Basis von Mitarbeiteranzahl und Produktivitätsdaten           die voraussichtliche Tagesleistung bzw. Endzeit der Fertigung präzise berechnet.
-	•	🧠  Ich lerne gerade Next.js und Supabase
-	•	🤝  Ich bin offen für Kooperationen an React- und TypeScript-Projekten, bei denen man gemeinsam wachsen kann
-	•	⚡  Ich freue mich über Inspiration, Austausch und jede Art von Coding-Herausforderung – ob klein oder groß. Lass uns gemeinsam etwas Großartiges schaffen!
-### Skills
+🖥️  Mein Portfolio findest du unter [Mein Portfoilio](http://www.maxvossgaetter.de)
+
+✉️  Du kannst mich erreichen unter [📧 max.vossgaetter@gmx.de](mailto:max.vossgaetter@gmx.de)
+
+🚀  Derzeit entwickle ich LogiPic – eine spezialisierte Anwendung für Logistikunternehmen, die auf Basis von Mitarbeiteranzahl und Produktivitätsdaten           die voraussichtliche Tagesleistung bzw. Endzeit der Fertigung präzise berechnet.
+
+🧠  Ich lerne gerade Next.js und Supabase
+
+🤝  Ich bin offen für Kooperationen an React- und TypeScript-Projekten, bei denen man gemeinsam wachsen kann
+
+⚡  Ich freue mich über Inspiration, Austausch und jede Art von Coding-Herausforderung – ob klein oder groß. Lass uns gemeinsam etwas Großartiges schaffen!
+
+
+
+###Skills
 
 
 <p align="left">
